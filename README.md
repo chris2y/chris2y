@@ -2,7 +2,7 @@
 
 👀 I’m passionate about mobile app development and am currently focusing on:
 
-- Native Android app development using Kotlin
+- Native Android app development using Kotlin and Java
 - Cross-platform development using Flutter
 
 🌱 I'm constantly learning and expanding my skills in these areas.
