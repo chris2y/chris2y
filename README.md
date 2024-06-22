@@ -7,7 +7,7 @@
 
 🌱 I'm constantly learning and expanding my skills in these areas.
 
-💞️ I’m looking to collaborate on exciting mobile app projects. If you have a project in mind, let's connect!
+ I’m looking to collaborate on exciting mobile app projects. If you have a project in mind, let's connect!
 
 📫 You can reach me via:
 - Telegram: [@chris2y](https://t.me/chris2y)
