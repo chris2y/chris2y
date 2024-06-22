@@ -1,4 +1,4 @@
-👋 Hi, I’m @chris2y!
+👋 Hi, I’m Christian Fisseha!
 
 👀 I’m passionate about mobile app development and am currently focusing on:
 
